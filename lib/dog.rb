@@ -11,4 +11,4 @@ class Dog
   def breed
     @doggo_breed
   end
-end 
+end
